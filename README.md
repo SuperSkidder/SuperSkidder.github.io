@@ -1,2 +1,6 @@
-# SuperSkidder.github.io
-SuperSkidder's stupid website
+# Minecraft Coding
+**本站仅作技术分享及学习使用，没有任何其他用途，不参与任何立场**
+1. 您可以随意修改页面内容以纠正错误或添加内容，每隔一段时间我将会统一处理merge请求。请勿提交有争议或违反中国大陆法律法规的内容。
+2. 本项目纯公益，不接受任何赞助
+3. 如有任何问题随时联系我：QQ:2148913906 Discord:SuperSkidder#9899
+4. 本站仅做源代码分享，尊重mojang对游戏Minecraft的版权及用户eula，如有任何纠纷，我们会删除部分内容，请见谅。
